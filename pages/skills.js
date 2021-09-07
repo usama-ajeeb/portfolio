@@ -65,7 +65,7 @@ function skills() {
       <div className=' relative  w-full h-screen hidden md:flex '>
         <Image
           className=' absolute  '
-          src='images/usama.jpg'
+          src='images/usama.png'
           objectFit='cover'
           layout='fill'
         />
