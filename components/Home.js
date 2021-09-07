@@ -43,7 +43,7 @@ function Home() {
       <div className=' relative  w-full h-screen hidden md:flex '>
         <Image
           className=' absolute  '
-          src='/usama.jpg'
+          src='images/usama.jpg'
           objectFit='cover'
           layout='fill'
         />

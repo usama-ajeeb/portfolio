@@ -26,7 +26,7 @@ function work() {
       <div className=' fixed h-full md:w-6/12 right-0 hidden md:flex  '>
         <Image
           className=' absolute  '
-          src='/usama.jpg'
+          src='images/usama.jpg'
           objectFit='cover'
           layout='fill'
         />
