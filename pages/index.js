@@ -7,7 +7,7 @@ export default function Home() {
   return (
     <div className='flex    min-h-screen '>
       <Head>
-        <title>Create Next App</title>
+        <title>Usama Nizamani</title>
         <link rel='icon' href='/favicon.ico' />
       </Head>
       <Main />
