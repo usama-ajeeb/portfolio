@@ -1,0 +1,7 @@
+@tailwind components;
+
+@layer components {
+  .skills {
+    @apply relative py-3 w-[340px] 2xl:w-[500px] xl:w-[450px] lg:w-[400px] mx-auto bg-[#6B7280] rounded-lg p-2;
+  }
+}
